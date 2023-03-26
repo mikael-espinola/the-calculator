@@ -5,7 +5,7 @@
 
 Link -> https://mikael-espinola.github.io/the-calculator/
 
-This project was built through Cod3r Modern Web bootcamp.
+This project was built through [Cod3r](https://www.cod3r.com.br/) Modern Web bootcamp.
 
 The Calculator is a project build to reinforce knowledge about the use of React.js, as well as improving logic through JavaScript and details in css and HTML. 
 
